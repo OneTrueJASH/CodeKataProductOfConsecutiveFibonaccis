@@ -1,0 +1,2 @@
+# CodeKataProductOfConsecutiveFibonaccis
+Code Kata
